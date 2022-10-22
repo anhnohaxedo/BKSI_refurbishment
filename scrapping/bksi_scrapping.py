@@ -45,8 +45,8 @@ for article in get_articles():
     soup = BeautifulSoup(request, 'html.parser')
     paragraphs = soup.find('section')
     documents = paragraphs.find('p').get_text(separator=' ', strip= True)
-    words = re.split('[., -()>@\[\]/:]+', documents)     
-    file = open('articles/article_' + article[-2:] + '.txt', 'w', newline='', encoding='utf-8')
+    words = re.sub('[., -()>@\[\]/:]+', ' ', documents)     
+    file = open('D:/project/BKSI/BKSI_refurbishment/scrapping/articles/article_' + article[-2:] + '.txt', 'w', newline='', encoding='utf-8')
     file.write(documents)
     file.close()
 
@@ -56,7 +56,7 @@ for category in get_categories():
         soup = BeautifulSoup(request, 'html.parser')
         paragraphs = soup.find('section')
         documents = paragraphs.find('p').get_text(separator=' ', strip= True)
-        file = open('blogs/' + re.split('/', blog)[-1] + '.txt', 'w', newline='', encoding='utf-8')
+        file = open('D:/project/BKSI/BKSI_refurbishment/scrapping/blogs/' + re.split('/', blog)[-1] + '.txt', 'w', newline='', encoding='utf-8')
         file.write(documents)
         file.close()
         # words = re.split('[., -()>@\[\]/:]+', documents)     
@@ -67,3 +67,12 @@ for category in get_categories():
 
 
 
+
+
+from bs4 import BeautifulSoup
+import requests, csv
+import constant
+import re
+
+request = requests.get('https://hcmussh.edu.vn/tong-quan').text
+soup = BeautifulSoup(request, 'lxml')
