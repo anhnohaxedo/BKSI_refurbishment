@@ -1,11 +1,104 @@
 Trường Đại học Khoa học Xã hội và Nhân văn thông báo hướng dẫn cấp tài khoản thư điện tử (email) và portal cho sinh viên như sau:CẤP TÀI KHOẢN THƯ ĐIỆN TỬ (E-MAIL) VÀ PORTAL CHO SINH VIÊN
-Phiếu cấp tài khoản sử dụng sau 1 tuần kể từ ngày nhận được phiếu nàyHướng dẫn đăng nhập:
-Bước 1: Sử dụng trình web: Firefox (version 3.0 trở lên), Google chrome, Internet Explorer (version 7.0 trở lên) …Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Đăng nhập” hoặc bấm Enter.
+Phiếu cấp tài khoản sử dụng sau 1 tuần kể từ ngày nhận được phiếu nàyCẤP TÀI KHOẢN THƯ ĐIỆN TỬ (E-MAIL) VÀ PORTAL CHO SINH VIÊN
+Phiếu cấp tài khoản sử dụng sau 1 tuần kể từ ngày nhận được phiếu này1. Tài khoản E-mail sinh viên
+(Sẽ bị xóa sau khi sinh viên ra trường)
+2. Tài khoản Portal sinh viên
+    Địa chỉ đăng nhâp: http://gmail.com/     Địa chỉ 1: http://daotao.vnu.edu.vn
+    Địa chỉ 2: http://dangkyhoc. vnu.edu.vn/
+    A1. Tên tài khoản: Mã sinh viên
+    (tên e-mail là Mã sinh viên@sv.ussh.edu.vn)     B1. Tên tài khoản: Mã sinh viên
+    A2. Mật khẩu: Mã sinh viên     B2. Mật khẩu: Mã sinh viên
+Hướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web Google chrome, Internet Explorer, Firefox… sau đó gõ vào địa chỉ http://gmail.com/
+Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Sign in” hoặc bấm Enter.
+Lưu ý:
+- Lần đầu tiên đăng nhập, hệ thống thường yêu cầu nhập mã xác nhận. Sinh viên phải nhập chính xác mã xác nhận khi hệ thống yêu cầu.
+- Lần đầu tiên đăng nhập thành công sinh viên  đổi mật khẩu theo ý mình để đảm bảo an toàn thông tin cá nhân.
+- Trong thời gian học sinh viên có những thông tin cần trao đổi với Nhà trường qua e-mail thì hãy sử dụng e-mail này để gửi thông tin trao đổi.
+
+  Hướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web: Firefox (version 3.0 trở lên), Google chrome, Internet Explorer (version 7.0 trở lên) …
+Để xem lịch thi, kết quả học tập, cập nhật hồ sơ sinh viên: http://daotao.vnu.edu.vn
+Để xem lịch học hoặc đăng ký môn học: http://dangkyhoc.vnu.edu.vn/
+Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Đăng nhập” hoặc bấm Enter.
 Lưu ý:
 - Portal sinh viên là cổng thông tin điện tử để tương tác, hiển thị thông tin giữa Nhà trường với sinh viên.
 - Lần đầu tiên đăng nhập thành công sinh viên phải đổi mật khẩu theo ý mình trên một trong hai cổng thông tin trên (hai cổng thông tin trên dùng chung một tài khoản và mật khẩu) để đảm bảo an toàn thông tin cá nhân. Nếu sinh viên đã đổi mật khẩu thì lần đăng nhập Portal tiếp theo sẽ sử dụng mật khẩu mới.
 - Phải khai báo mục “Địa chỉ Email khác” là địa chỉ e-mail của sinh viên đang sử dụng để trường hợp quên mật khẩu Portal sinh viên có thể lấy tự lấy lại mật khẩu bằng chức năng “Quên mật khẩu” ở giao diện đăng nhập.
-- Sinh viên đọc kỹ hướng dẫn trên giao diện đăng nhập.- Sinh viên xem thời khóa biểu chính thức trên Portal sinh viên. Địa chỉ: http://dangkyhoc.daotao.vnu.edu.vn/
+- Sinh viên đọc kỹ hướng dẫn trên giao diện đăng nhập.1. Tài khoản E-mail sinh viên
+(Sẽ bị xóa sau khi sinh viên ra trường)
+2. Tài khoản Portal sinh viên
+    Địa chỉ đăng nhâp: http://gmail.com/     Địa chỉ 1: http://daotao.vnu.edu.vn
+    Địa chỉ 2: http://dangkyhoc. vnu.edu.vn/
+    A1. Tên tài khoản: Mã sinh viên
+    (tên e-mail là Mã sinh viên@sv.ussh.edu.vn)     B1. Tên tài khoản: Mã sinh viên
+    A2. Mật khẩu: Mã sinh viên     B2. Mật khẩu: Mã sinh viên
+Hướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web Google chrome, Internet Explorer, Firefox… sau đó gõ vào địa chỉ http://gmail.com/
+Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Sign in” hoặc bấm Enter.
+Lưu ý:
+- Lần đầu tiên đăng nhập, hệ thống thường yêu cầu nhập mã xác nhận. Sinh viên phải nhập chính xác mã xác nhận khi hệ thống yêu cầu.
+- Lần đầu tiên đăng nhập thành công sinh viên  đổi mật khẩu theo ý mình để đảm bảo an toàn thông tin cá nhân.
+- Trong thời gian học sinh viên có những thông tin cần trao đổi với Nhà trường qua e-mail thì hãy sử dụng e-mail này để gửi thông tin trao đổi.
+
+  Hướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web: Firefox (version 3.0 trở lên), Google chrome, Internet Explorer (version 7.0 trở lên) …
+Để xem lịch thi, kết quả học tập, cập nhật hồ sơ sinh viên: http://daotao.vnu.edu.vn
+Để xem lịch học hoặc đăng ký môn học: http://dangkyhoc.vnu.edu.vn/
+Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Đăng nhập” hoặc bấm Enter.
+Lưu ý:
+- Portal sinh viên là cổng thông tin điện tử để tương tác, hiển thị thông tin giữa Nhà trường với sinh viên.
+- Lần đầu tiên đăng nhập thành công sinh viên phải đổi mật khẩu theo ý mình trên một trong hai cổng thông tin trên (hai cổng thông tin trên dùng chung một tài khoản và mật khẩu) để đảm bảo an toàn thông tin cá nhân. Nếu sinh viên đã đổi mật khẩu thì lần đăng nhập Portal tiếp theo sẽ sử dụng mật khẩu mới.
+- Phải khai báo mục “Địa chỉ Email khác” là địa chỉ e-mail của sinh viên đang sử dụng để trường hợp quên mật khẩu Portal sinh viên có thể lấy tự lấy lại mật khẩu bằng chức năng “Quên mật khẩu” ở giao diện đăng nhập.
+- Sinh viên đọc kỹ hướng dẫn trên giao diện đăng nhập.1. Tài khoản E-mail sinh viên
+(Sẽ bị xóa sau khi sinh viên ra trường)
+2. Tài khoản Portal sinh viên1. Tài khoản E-mail sinh viên
+(Sẽ bị xóa sau khi sinh viên ra trường)1. Tài khoản E-mail sinh viên1. Tài khoản E-mail sinh viên(Sẽ bị xóa sau khi sinh viên ra trường)(Sẽ bị xóa sau khi sinh viên ra trường)2. Tài khoản Portal sinh viên2. Tài khoản Portal sinh viên2. Tài khoản Portal sinh viên    Địa chỉ đăng nhâp: http://gmail.com/     Địa chỉ 1: http://daotao.vnu.edu.vn
+    Địa chỉ 2: http://dangkyhoc. vnu.edu.vn/    Địa chỉ đăng nhâp: http://gmail.com/    Địa chỉ 1: http://daotao.vnu.edu.vn
+    Địa chỉ 2: http://dangkyhoc. vnu.edu.vn/http://daotao.vnu.edu.vnhttp://dangkyhoc. vnu.edu.vn/    A1. Tên tài khoản: Mã sinh viên
+    (tên e-mail là Mã sinh viên@sv.ussh.edu.vn)     B1. Tên tài khoản: Mã sinh viên    A1. Tên tài khoản: Mã sinh viên
+    (tên e-mail là Mã sinh viên@sv.ussh.edu.vn)viên@sv.ussh.edu.vn    B1. Tên tài khoản: Mã sinh viên    A2. Mật khẩu: Mã sinh viên     B2. Mật khẩu: Mã sinh viên    A2. Mật khẩu: Mã sinh viên    B2. Mật khẩu: Mã sinh viênHướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web Google chrome, Internet Explorer, Firefox… sau đó gõ vào địa chỉ http://gmail.com/
+Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Sign in” hoặc bấm Enter.
+Lưu ý:
+- Lần đầu tiên đăng nhập, hệ thống thường yêu cầu nhập mã xác nhận. Sinh viên phải nhập chính xác mã xác nhận khi hệ thống yêu cầu.
+- Lần đầu tiên đăng nhập thành công sinh viên  đổi mật khẩu theo ý mình để đảm bảo an toàn thông tin cá nhân.
+- Trong thời gian học sinh viên có những thông tin cần trao đổi với Nhà trường qua e-mail thì hãy sử dụng e-mail này để gửi thông tin trao đổi.
+
+  Hướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web: Firefox (version 3.0 trở lên), Google chrome, Internet Explorer (version 7.0 trở lên) …
+Để xem lịch thi, kết quả học tập, cập nhật hồ sơ sinh viên: http://daotao.vnu.edu.vn
+Để xem lịch học hoặc đăng ký môn học: http://dangkyhoc.vnu.edu.vn/
+Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Đăng nhập” hoặc bấm Enter.
+Lưu ý:
+- Portal sinh viên là cổng thông tin điện tử để tương tác, hiển thị thông tin giữa Nhà trường với sinh viên.
+- Lần đầu tiên đăng nhập thành công sinh viên phải đổi mật khẩu theo ý mình trên một trong hai cổng thông tin trên (hai cổng thông tin trên dùng chung một tài khoản và mật khẩu) để đảm bảo an toàn thông tin cá nhân. Nếu sinh viên đã đổi mật khẩu thì lần đăng nhập Portal tiếp theo sẽ sử dụng mật khẩu mới.
+- Phải khai báo mục “Địa chỉ Email khác” là địa chỉ e-mail của sinh viên đang sử dụng để trường hợp quên mật khẩu Portal sinh viên có thể lấy tự lấy lại mật khẩu bằng chức năng “Quên mật khẩu” ở giao diện đăng nhập.
+- Sinh viên đọc kỹ hướng dẫn trên giao diện đăng nhập.Hướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web Google chrome, Internet Explorer, Firefox… sau đó gõ vào địa chỉ http://gmail.com/
+Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Sign in” hoặc bấm Enter.
+Lưu ý:
+- Lần đầu tiên đăng nhập, hệ thống thường yêu cầu nhập mã xác nhận. Sinh viên phải nhập chính xác mã xác nhận khi hệ thống yêu cầu.
+- Lần đầu tiên đăng nhập thành công sinh viên  đổi mật khẩu theo ý mình để đảm bảo an toàn thông tin cá nhân.
+- Trong thời gian học sinh viên có những thông tin cần trao đổi với Nhà trường qua e-mail thì hãy sử dụng e-mail này để gửi thông tin trao đổi.
+
+ Bước 1Bước 1Bước 2Bước 2Lưu ý:Lưu ý:Hướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web: Firefox (version 3.0 trở lên), Google chrome, Internet Explorer (version 7.0 trở lên) …
+Để xem lịch thi, kết quả học tập, cập nhật hồ sơ sinh viên: http://daotao.vnu.edu.vn
+Để xem lịch học hoặc đăng ký môn học: http://dangkyhoc.vnu.edu.vn/
+Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Đăng nhập” hoặc bấm Enter.
+Lưu ý:
+- Portal sinh viên là cổng thông tin điện tử để tương tác, hiển thị thông tin giữa Nhà trường với sinh viên.
+- Lần đầu tiên đăng nhập thành công sinh viên phải đổi mật khẩu theo ý mình trên một trong hai cổng thông tin trên (hai cổng thông tin trên dùng chung một tài khoản và mật khẩu) để đảm bảo an toàn thông tin cá nhân. Nếu sinh viên đã đổi mật khẩu thì lần đăng nhập Portal tiếp theo sẽ sử dụng mật khẩu mới.
+- Phải khai báo mục “Địa chỉ Email khác” là địa chỉ e-mail của sinh viên đang sử dụng để trường hợp quên mật khẩu Portal sinh viên có thể lấy tự lấy lại mật khẩu bằng chức năng “Quên mật khẩu” ở giao diện đăng nhập.
+- Sinh viên đọc kỹ hướng dẫn trên giao diện đăng nhập.Hướng dẫn đăng nhập:
+Bước 1: Sử dụng trình web: Firefox (version 3.0 trở lên), Google chrome, Internet Explorer (version 7.0 trở lên) …Bước 1Bước 1Để xem lịch thi, kết quả học tập, cập nhật hồ sơ sinh viên: http://daotao.vnu.edu.vn
+Để xem lịch học hoặc đăng ký môn học: http://dangkyhoc.vnu.edu.vn/Để xem lịch thi, kết quả học tập, cập nhật hồ sơ sinh viên: http://daotao.vnu.edu.vnhttp://daotao.vnu.edu.vnĐể xem lịch học hoặc đăng ký môn học: http://dangkyhoc.vnu.edu.vn/http://dangkyhoc.vnu.edu.vn/Bước 2: nhập vào tên tài khoản và mật khẩu như ở trên sau đó bấm vào nút “Đăng nhập” hoặc bấm Enter.
+Lưu ý:
+- Portal sinh viên là cổng thông tin điện tử để tương tác, hiển thị thông tin giữa Nhà trường với sinh viên.
+- Lần đầu tiên đăng nhập thành công sinh viên phải đổi mật khẩu theo ý mình trên một trong hai cổng thông tin trên (hai cổng thông tin trên dùng chung một tài khoản và mật khẩu) để đảm bảo an toàn thông tin cá nhân. Nếu sinh viên đã đổi mật khẩu thì lần đăng nhập Portal tiếp theo sẽ sử dụng mật khẩu mới.
+- Phải khai báo mục “Địa chỉ Email khác” là địa chỉ e-mail của sinh viên đang sử dụng để trường hợp quên mật khẩu Portal sinh viên có thể lấy tự lấy lại mật khẩu bằng chức năng “Quên mật khẩu” ở giao diện đăng nhập.
+- Sinh viên đọc kỹ hướng dẫn trên giao diện đăng nhập.Bước 2Bước 2Lưu ý:Lưu ý:- Sinh viên xem thời khóa biểu chính thức trên Portal sinh viên. Địa chỉ: http://dangkyhoc.daotao.vnu.edu.vn/
 - Sinh viên có vấn đề cần giải đáp về Email sinh viên và mật khẩu Portal gặp cô Vũ Thị Xuân Hương
 Phòng Đào tạo (606 nhà E),  theo lịch tiếp sinh viên để được hỗ trợ.
-ĐT: 024.38585237
+ĐT: 024.38585237http://dangkyhoc.daotao.vnu.edu.vn/

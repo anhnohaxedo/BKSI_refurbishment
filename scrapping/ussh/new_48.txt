@@ -1,4 +1,4 @@
-Ngày 06/04/2022, tổ chức giáo dục Quacquarelli Symonds (QS) công bố kết quả bảng xếp hạng 51 lĩnh vực thuộc 5 nhóm lĩnh vực của 1543 cơ sở giáo dục đại học thế giới, với khoảng 14000 chương trình đào tạo. Xếp hạng QS WUR theo lĩnh vực và nhóm lĩnh vực
+Ngày 06/04/2022, tổ chức giáo dục Quacquarelli Symonds (QS) công bố kết quả bảng xếp hạng 51 lĩnh vực thuộc 5 nhóm lĩnh vực của 1543 cơ sở giáo dục đại học thế giới, với khoảng 14000 chương trình đào tạo.Trong Bảng xếp hạng QS thế giới theo lĩnh vực năm 2022 (QS WUR by subject 2022), ĐHQGHN tiếp tục gia tăng vị thế tại các lĩnh vực mũi nhọn khi có 6/51 lĩnh vực được xếp hạng. Ngoài 5 lĩnh vực tiếp tục được xếp hạng (trong đó có 4/5 lĩnh vực gia tăng vị trí xếp hạng), ĐHQGHN có thêm 1 lĩnh vực mới được xếp hạng lần đầu tiên là Kỹ thuật điện và điện tử (Engineering – Electrical & Electronic). Xếp hạng QS WUR theo lĩnh vực và nhóm lĩnh vực
 2021
 2022
 Nhóm lĩnh vực “Kỹ thuật và Công nghệ”
@@ -36,4 +36,118 @@ Nhóm lĩnh vực “Khoa học xã hội và quản lý”
 Kinh doanh và Khoa học quản lý
 (Business & Management Studies)
 501-550
+451-500 Xếp hạng QS WUR theo lĩnh vực và nhóm lĩnh vực
+2021
+2022
+Nhóm lĩnh vực “Kỹ thuật và Công nghệ”
+(Engineering & Technology)
+-
+386
+Khoa học máy tính và hệ thống thông tin
+(Computer Science & Information Systems)
+601-650
+501-550
+Cơ kỹ thuật, hàng không và chế tạo
+(Engineering – Mechanical, Aeronautical & Manufacture)
 451-500
+451-500
+Kỹ thuật điện và điện tử
+(Engineering – Electrical & Electronic)
+-
+451-500
+Nhóm lĩnh vực “Khoa học Tự nhiên”
+(Natural Sciences)
+-
+401-450
+Toán học
+(Mathematics)
+401-450
+351-400
+Vật lý và Thiên văn học
+(Physics & Astronomy)
+501-550
+451-500
+Nhóm lĩnh vực “Khoa học xã hội và quản lý”
+(Social Sciences & Management)
+-
+451-500
+Kinh doanh và Khoa học quản lý
+(Business & Management Studies)
+501-550
+451-500 Xếp hạng QS WUR theo lĩnh vực và nhóm lĩnh vực
+2021
+2022
+Nhóm lĩnh vực “Kỹ thuật và Công nghệ”
+(Engineering & Technology)
+-
+386
+Khoa học máy tính và hệ thống thông tin
+(Computer Science & Information Systems)
+601-650
+501-550
+Cơ kỹ thuật, hàng không và chế tạo
+(Engineering – Mechanical, Aeronautical & Manufacture)
+451-500
+451-500
+Kỹ thuật điện và điện tử
+(Engineering – Electrical & Electronic)
+-
+451-500
+Nhóm lĩnh vực “Khoa học Tự nhiên”
+(Natural Sciences)
+-
+401-450
+Toán học
+(Mathematics)
+401-450
+351-400
+Vật lý và Thiên văn học
+(Physics & Astronomy)
+501-550
+451-500
+Nhóm lĩnh vực “Khoa học xã hội và quản lý”
+(Social Sciences & Management)
+-
+451-500
+Kinh doanh và Khoa học quản lý
+(Business & Management Studies)
+501-550
+451-500 Xếp hạng QS WUR theo lĩnh vực và nhóm lĩnh vực
+2021
+2022 Xếp hạng QS WUR theo lĩnh vực và nhóm lĩnh vực Xếp hạng QS WUR theo lĩnh vực và nhóm lĩnh vực Xếp hạng QS WUR theo lĩnh vực và nhóm lĩnh vực202120212021202220222022Nhóm lĩnh vực “Kỹ thuật và Công nghệ”
+(Engineering & Technology)
+-
+386Nhóm lĩnh vực “Kỹ thuật và Công nghệ”
+(Engineering & Technology)Nhóm lĩnh vực “Kỹ thuật và Công nghệ”Nhóm lĩnh vực “Kỹ thuật và Công nghệ”(Engineering & Technology)(Engineering & Technology)---386386386Khoa học máy tính và hệ thống thông tin
+(Computer Science & Information Systems)
+601-650
+501-550Khoa học máy tính và hệ thống thông tin
+(Computer Science & Information Systems)Khoa học máy tính và hệ thống thông tin(Computer Science & Information Systems)601-650601-650501-550501-550Cơ kỹ thuật, hàng không và chế tạo
+(Engineering – Mechanical, Aeronautical & Manufacture)
+451-500
+451-500Cơ kỹ thuật, hàng không và chế tạo
+(Engineering – Mechanical, Aeronautical & Manufacture)Cơ kỹ thuật, hàng không và chế tạo(Engineering – Mechanical, Aeronautical & Manufacture)451-500451-500451-500451-500Kỹ thuật điện và điện tử
+(Engineering – Electrical & Electronic)
+-
+451-500Kỹ thuật điện và điện tử
+(Engineering – Electrical & Electronic)Kỹ thuật điện và điện tử(Engineering – Electrical & Electronic)--451-500451-500Nhóm lĩnh vực “Khoa học Tự nhiên”
+(Natural Sciences)
+-
+401-450Nhóm lĩnh vực “Khoa học Tự nhiên”
+(Natural Sciences)Nhóm lĩnh vực “Khoa học Tự nhiên”Nhóm lĩnh vực “Khoa học Tự nhiên”(Natural Sciences)(Natural Sciences)---401-450401-450401-450Toán học
+(Mathematics)
+401-450
+351-400Toán học
+(Mathematics)Toán học(Mathematics)401-450401-450351-400351-400Vật lý và Thiên văn học
+(Physics & Astronomy)
+501-550
+451-500Vật lý và Thiên văn học
+(Physics & Astronomy)Vật lý và Thiên văn học(Physics & Astronomy)501-550501-550451-500451-500Nhóm lĩnh vực “Khoa học xã hội và quản lý”
+(Social Sciences & Management)
+-
+451-500Nhóm lĩnh vực “Khoa học xã hội và quản lý”
+(Social Sciences & Management)Nhóm lĩnh vực “Khoa học xã hội và quản lý”Nhóm lĩnh vực “Khoa học xã hội và quản lý”(Social Sciences & Management)(Social Sciences & Management)---451-500451-500451-500Kinh doanh và Khoa học quản lý
+(Business & Management Studies)
+501-550
+451-500Kinh doanh và Khoa học quản lý
+(Business & Management Studies)Kinh doanh và Khoa học quản lý(Business & Management Studies)501-550501-550451-500451-500Kết quả xếp hạng theo lĩnh vực (QS WUR by Subject) của ĐHQGHN trong 2 năm 2021 và 2022Kết quả xếp hạng theo lĩnh vực (QS WUR by Subject) của ĐHQGHN trong 2 năm 2021 và 2022Trong 6 lĩnh vực được QS xếp hạng trong QS WUR by subject 2022 gồm: Khoa học máy tính và hệ thống thông tin, Cơ kỹ thuật, hàng không và chế tạo, Toán học, Vật lý và thiên văn học, Kinh doanh và Khoa học quản lý và Kỹ thuật điện và điện tử, ĐHQGHN có tới 5/6 lĩnh vực thuộc top 500 thế giới – đặc biệt 3 lĩnh vực Toán học (Mathematics); Vật lý và Thiên văn học (Physics & Astronomy) và Kinh doanh và Khoa học quản lý (Business & Management Studies) đều được xếp hạng số 1 tại Việt Nam.Bảng xếp hạng QS WUR by subject 2022 được xây dựng dựa trên 5 tiêu chí với các trọng số được tùy biến cho phù hợp với các lĩnh vực, bao gồm:+ Uy tín học thuật (Academic Reputation)+ Uy tín tuyển dụng (Employer Reputation)+ Tỉ lệ trích dẫn trung bình trên một bài báo (Citations per paper)+ Chỉ số H-index đo lường năng suất và mức độ tác động của các công bố khoa học của đội ngũ giảng viên+ Mạng lưới nghiên cứu quốc tế (International Research Network)Các tiêu chí xếp hạng của QS nhấn mạnh vào đóng góp và tác động của chất lượng đào tạo của một ngành/lĩnh vực đào tạo đối với xã hội (thông qua đánh giá của học giả và nhà tuyển dụng); các đóng góp cho hoạt động nghiên cứu khoa học (thông qua mức độ trích dẫn và chỉ số H-index) và khả năng quốc tế hóa trong nghiên cứu khoa học (thông qua mạng lưới nghiên cứu quốc tế).Từ năm 2022, QS bổ sung xếp hạng theo 5 nhóm lĩnh vực. ĐHQGHN cũng thể hiện vị thế trong xu hướng nghiên cứu khi có 3/5 nhóm lĩnh vực được xếp hạng là Kỹ thuật và Công nghệ (Engineering & Technology) xếp thứ 386, Khoa học tự nhiên (Natural Sciences) xếp thứ 401-450 và Khoa học xã hội và Quản lý (Social Science & Management) xếp thứ 451-500.  Nhóm lĩnh vực Khoa học xã hội và quản lý – xếp hạng trong nhóm 451-500 (59,8 điểm)Nhóm lĩnh vực Khoa học xã hội và quản lý – xếp hạng trong nhóm 451-500 (59,8 điểm)Trong nhóm lĩnh vực Khoa học Tự nhiên, ĐHQGHN có 2 lĩnh vực được xếp vị trí thứ nhất Việt Nam là Toán học (Mathematics) – trong nhóm 351-400 thế giới và Vật lý và Thiên văn học (Physics & Astronomy) – trong nhóm 451-500 thế giới. ĐHQGHN cũng là cơ sở giáo dục đại học duy nhất ở Việt Nam được xếp hạng ở nhóm lĩnh vực này.Nhóm lĩnh vực Khoa học Tự nhiên – xếp hạng trong nhóm 401-450 thế giới, thứ nhất Việt Nam (62,3 điểm)Nhóm lĩnh vực Khoa học Tự nhiên – xếp hạng trong nhóm 401-450 thế giới, thứ nhất Việt Nam (62,3 điểm)Nhóm lĩnh vực Kỹ thuật và Công nghệ cũng thể hiện là thế mạnh của Việt Nam khi, ngoài ĐHQGHN, có tới 4 cơ sở giáo dục đại học khác tại Việt Nam được xếp hạng, bao gồm: Trường Đại học Bách Khoa Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh, Trường Đại học Duy Tân và Trường Đại học Tôn Đức Thắng.Nhóm lĩnh vực Kỹ thuật và Công nghệ - xếp hạng 386 thế giới (64,6 điểm)Nhóm lĩnh vực Kỹ thuật và Công nghệ - xếp hạng 386 thế giới (64,6 điểm)Kết quả điểm cụ thể theo các tiêu chí của các nhóm lĩnh vực như sau:Kết quả điểm số cụ thể của 3 nhóm lĩnh vực được xếp hạngKết quả điểm số cụ thể của 3 nhóm lĩnh vực được xếp hạngCó thể thấy, điểm số của tiêu chí Uy tín tuyển dụng ở cả 3 nhóm lĩnh vực này đều đạt trên mức 68/100 điểm, cho thấy sự công nhận của các doanh nghiệp và nhà sử dụng lao động đối với năng lực của người học tốt nghiệp và chất lượng đào tạo của các chương trình đào tạo thuộc nhóm lĩnh vực này nói riêng và của ĐHQGHN nói chung.Trước đó, trong năm 2021, Tạp chí Times Higher Education (THE) đã công bố Bảng xếp hạng THE World University Ranking (WUR) by Subject, trong đó ĐHQGHN có lĩnh vực Khoa học máy tính (Computer Sciences) lần đầu tiên được THE đánh giá và có thứ hạng trong nhóm 501-600 thế giới, số 1 Việt Nam; Kỹ thuật & Công nghệ trong nhóm 401-500 thế giới, số 1 Việt Nam. THE World University Ranking by Subject là bảng xếp hạng các trường đại học theo 11 lĩnh vực. Kết quả của bảng xếp hạng này được đánh giá dựa 5 nhóm tiêu chí gồm các chỉ số: Trích dẫn (Citation), Thu nhập từ chuyển giao công nghệ (Industry Income), Triển vọng quốc tế (International Outlook), Nghiên cứu (Research) và Giảng dạy (Teaching).Trước đó, trong năm 2021, Tạp chí Times Higher Education (THE) đã công bố Bảng xếp hạng THE World University Ranking (WUR) by Subject, trong đó ĐHQGHN có lĩnh vực Khoa học máy tính (Computer Sciences) lần đầu tiên được THE đánh giá và có thứ hạng trong nhóm 501-600 thế giới, số 1 Việt Nam; Kỹ thuật & Công nghệ trong nhóm 401-500 thế giới, số 1 Việt Nam. THE World University Ranking by Subject là bảng xếp hạng các trường đại học theo 11 lĩnh vực. Kết quả của bảng xếp hạng này được đánh giá dựa 5 nhóm tiêu chí gồm các chỉ số: Trích dẫn (Citation), Thu nhập từ chuyển giao công nghệ (Industry Income), Triển vọng quốc tế (International Outlook), Nghiên cứu (Research) và Giảng dạy (Teaching).Trước đó, trong năm 2021, Tạp chí Times Higher Education (THE) đã công bố Bảng xếp hạng THE World University Ranking (WUR) by Subject, trong đó ĐHQGHN có lĩnh vực Khoa học máy tính (Computer Sciences) lần đầu tiên được THE đánh giá và có thứ hạng trong nhóm 501-600 thế giới, số 1 Việt Nam; Kỹ thuật & Công nghệ trong nhóm 401-500 thế giới, số 1 Việt Nam. THE World University Ranking by Subject là bảng xếp hạng các trường đại học theo 11 lĩnh vực. Kết quả của bảng xếp hạng này được đánh giá dựa 5 nhóm tiêu chí gồm các chỉ số: Trích dẫn (Citation), Thu nhập từ chuyển giao công nghệ (Industry Income), Triển vọng quốc tế (International Outlook), Nghiên cứu (Research) và Giảng dạy (Teaching).Trước đó, trong năm 2021, Tạp chí Times Higher Education (THE) đã công bố Bảng xếp hạng THE World University Ranking (WUR) by Subject, trong đó ĐHQGHN có lĩnh vực Khoa học máy tính (Computer Sciences) lần đầu tiên được THE đánh giá và có thứ hạng trong nhóm 501-600 thế giới, số 1 Việt Nam; Kỹ thuật & Công nghệ trong nhóm 401-500 thế giới, số 1 Việt Nam. THE World University Ranking by Subject là bảng xếp hạng các trường đại học theo 11 lĩnh vực. Kết quả của bảng xếp hạng này được đánh giá dựa 5 nhóm tiêu chí gồm các chỉ số: Trích dẫn (Citation), Thu nhập từ chuyển giao công nghệ (Industry Income), Triển vọng quốc tế (International Outlook), Nghiên cứu (Research) và Giảng dạy (Teaching).Trước đó, trong năm 2021, Tạp chí Times Higher Education (THE) đã công bố Bảng xếp hạng THE World University Ranking (WUR) by Subject, trong đó ĐHQGHN có lĩnh vực Khoa học máy tính (Computer Sciences) lần đầu tiên được THE đánh giá và có thứ hạng trong nhóm 501-600 thế giới, số 1 Việt Nam; Kỹ thuật & Công nghệ trong nhóm 401-500 thế giới, số 1 Việt Nam. THE World University Ranking by Subject là bảng xếp hạng các trường đại học theo 11 lĩnh vực. Kết quả của bảng xếp hạng này được đánh giá dựa 5 nhóm tiêu chí gồm các chỉ số: Trích dẫn (Citation), Thu nhập từ chuyển giao công nghệ (Industry Income), Triển vọng quốc tế (International Outlook), Nghiên cứu (Research) và Giảng dạy (Teaching).
