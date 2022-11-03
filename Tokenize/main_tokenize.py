@@ -2,34 +2,36 @@ import underthesea
 import math
 import numpy as np
 import pandas as pd
+
+import re
 import nltk
 import sklearn
 from Tools.scripts.dutree import display
 from sklearn.datasets import load_iris
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-# dataset = [
-#     "Tôi yêu Google. Tôi ghét Bing. Google là số một",
-#     "Tôi yêu Pushkin. Pushkin là số một"
-# ]
+dataset = [
+    "Tôi yêu Google. Tôi ghét Bing. Google là số một",
+    "Tôi yêu Pushkin. Pushkin là số một"
+]
 # dataset = [
 #     "this is a sample",
 #     "this is another example"
 # ]
-dataset = [
-    "Tôi yêu Google",
-    "Tôi ghét Bing",
-    "Google là số một",
-    "Tôi yêu Puskin",
-    "Puskin là số một",
-]
+# dataset = [
+#     "Tôi yêu Google",
+#     "Tôi ghét Bing",
+#     "Google là số một",
+#     "Tôi yêu Puskin",
+#     "Puskin là số một",
+# ]
 
 
 # dic = {1: "a new car used car car review", 2: "a friend in need is a friend indeed"}
 
 dic = {1: "Tôi yêu Google", 2: "Tôi ghét Bing", 3: "Google là số một", 4: "Tôi yêu Puskin", 5: "Puskin là số một"}
-dic1 = {1: "Tôi yêu Google Tôi ghét Bing Google là số một", 2: "Tôi yêu Pushkin Pushkin là số một"}
-dic2 = {1: "this is a sample", 2: "this is another example"}
+dic1 = {1: "Tôi yêu, Google. Tôi ghét Bing. Google là số một", 2: "Tôi yêu Pushkin. Pushkin là số một"}
+# dic2 = {1: "this is a sample", 2: "this is another example"}
 # dic = {}
 
 # for i in range(45, 77):
@@ -57,6 +59,7 @@ corpus = {}
 docFreq = {}
 for dic_key in dic.keys():
     data = dic[dic_key].lower()
+    data = re.sub(r'(\. )|(\, )', ' ', data)
     data = underthesea.word_tokenize(data)
     # Not handle blacklist
     freq = {}
@@ -77,7 +80,7 @@ for record in docFreq.values():
         for dictionary in docFreq.values():
             if token in dictionary:
                 count += 1
-        idf = math.log10(len(docFreq)/count)
+        idf = math.log10((len(docFreq))/count)
         record[token] *= idf
 
 
@@ -99,18 +102,18 @@ for key in docFreq.keys():
 
 data_query = "car is indeed"
 
-try:
-    query = open("D:/BKSI_refurbishment/scrapping/articles/query.txt", "r", encoding='utf-8')
-    data_query = query.read()
-except IOError:
-    print("query is yeeted")
-finally:
-    query.close()
+# try:
+#     query = open("D:/BKSI_refurbishment/scrapping/articles/query.txt", "r", encoding='utf-8')
+#     data_query = query.read()
+# except IOError:
+#     print("query is yeeted")
+# finally:
+#     query.close()
 
 data_query = data_query.lower()
 data_query_list = underthesea.word_tokenize(data_query)
 
-# print(data_query_list)
+print(data_query_list)
 
 query_weights = {}
 
