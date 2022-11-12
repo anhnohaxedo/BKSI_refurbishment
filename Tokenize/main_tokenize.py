@@ -6,15 +6,11 @@ import nltk
 # dic = {1: "a new car used car car review", 2: "a friend in need is a friend indeed"}
 dic = {}
 
-for i in range(45, 77):
-    try:
-        article = open("D:/BKSI_refurbishment/scrapping/articles/article_" + str(i) + ".txt", "r", encoding='utf-8')
-        data = article.read()
-        dic[str(i)] = data
-    except IOError:
-        print("file is yeeted")
-    finally:
-        article.close()
+for i in range(0, 227):
+    article = open("D:/project/BKSI/BKSI_refurbishment/scrapping/ussh/new_" + str(i) + ".txt", "r", encoding='utf-8')
+    data = article.read()
+    dic[str(i)] = data
+    article.close()
 
 
 # calculate tf
@@ -46,9 +42,9 @@ for record in docFreq:
         record[token] *= idf
 
 # print the record
-for record in docFreq:
-    print(record)
-    print('\n')
+# for record in docFreq:
+#     print(record)
+#     print('\n')
 # convert to lower case
 # data = dic['45'].lower()
 # data = underthesea.word_tokenize(data)
