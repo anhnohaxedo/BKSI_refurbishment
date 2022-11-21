@@ -10,30 +10,48 @@ from Tools.scripts.dutree import display
 from sklearn.datasets import load_iris
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-dataset = [
+
+
+# What's the tf-idf variant you want to run? original = 0; sublinear_tf_idf = 1; maximum_tf = 2
+tf_idf_Variant = 0
+# the normalization coefficient had you chosen maximum_tf = 2
+normalize_a = 0.5
+# changing this to use either dataset 1 or 2, choose 0 to not use test dataset at all
+testing_dataset = 1
+
+
+dataset = []
+dataset1 = [
     "Tôi yêu Google. Tôi ghét Bing. Google là số một",
     "Tôi yêu Pushkin. Pushkin là số một"
 ]
-# dataset = [
-#     "this is a sample",
-#     "this is another example"
-# ]
-# dataset = [
-#     "Tôi yêu Google",
-#     "Tôi ghét Bing",
-#     "Google là số một",
-#     "Tôi yêu Puskin",
-#     "Puskin là số một",
-# ]
+dataset2 = [
+    "Tôi yêu Google",
+    "Tôi ghét Bing",
+    "Google là số một",
+    "Tôi yêu Puskin",
+    "Puskin là số một",
+]
+dic2 = {1: "Tôi yêu Google", 2: "Tôi ghét Bing", 3: "Google là số một", 4: "Tôi yêu Puskin", 5: "Puskin là số một"}
+dic1 = {1: "Tôi yêu Google. Tôi ghét Bing. Google là số một", 2: "Tôi yêu Pushkin. Pushkin là số một"}
+dic = {}
 
-
-# dic = {1: "a new car used car car review", 2: "a friend in need is a friend indeed"}
-
-dic = {1: "Tôi yêu Google", 2: "Tôi ghét Bing", 3: "Google là số một", 4: "Tôi yêu Puskin", 5: "Puskin là số một"}
-dic1 = {1: "Tôi yêu, Google. Tôi ghét Bing. Google là số một", 2: "Tôi yêu Pushkin. Pushkin là số một"}
-# dic2 = {1: "this is a sample", 2: "this is another example"}
-# dic = {}
-
+if testing_dataset == 1:
+    dic = dic1
+    dataset = dataset1
+elif testing_dataset == 2:
+    dic = dic2
+    dataset = dataset2
+else:
+    for i in range(0, 228):
+        try:
+            article = open("D:/BKSI_refurbishment/scrapping/ussh/new_" + str(i) + ".txt", "r", encoding='utf-8')
+            data = article.read()
+            dic[str(i)] = data
+        except IOError:
+            print("file is yeeted")
+        finally:
+            article.close()
 # for i in range(45, 77):
 #     try:
 #         article = open("D:/BKSI_refurbishment/scrapping/articles/article_" + str(i) + ".txt", "r", encoding='utf-8')
@@ -44,33 +62,42 @@ dic1 = {1: "Tôi yêu, Google. Tôi ghét Bing. Google là số một", 2: "Tôi
 #     finally:
 #         article.close()
 
-# for i in range(0, 228):
-#     try:
-#         article = open("D:/BKSI_refurbishment/scrapping/ussh/new_" + str(i) + ".txt", "r", encoding='utf-8')
-#         data = article.read()
-#         dic[str(i)] = data
-#     except IOError:
-#         print("file is yeeted")
-#     finally:
-#         article.close()
 
 # calculate tf
 corpus = {}
 docFreq = {}
 for dic_key in dic.keys():
+    print("going through doc:")
+    # Each loop is going through one document each I think
     data = dic[dic_key].lower()
     data = re.sub(r'(\. )|(\, )', ' ', data)
     data = underthesea.word_tokenize(data)
     # Not handle blacklist
     freq = {}
     # iterate through the doc to create a dic of tokens and their tf
+    max_term = 0
     for token in data:
         if token in freq.keys():
             freq[token] += 1
         else:
             freq[token] = 1
+        if max_term < freq[token]:
+            max_term = freq[token]
     for key in freq.keys():
-        freq[key] /= len(data)
+        if tf_idf_Variant == 0:  # Normal tf-idf
+            freq[key] /= len(data)
+        elif tf_idf_Variant == 1:  # Sublinear tf-idf
+            if (freq[key] / len(data)) > 0:
+                print(key)
+                print(freq[key] / len(data))
+                print(math.log10(freq[key]/len(data)))
+                freq[key] = 1 + math.log10(freq[key]/len(data))
+                print(freq[key])
+            else:
+                freq[key] = 0
+        elif tf_idf_Variant == 2:  # Maximum tf normalization
+            freq[key] = normalize_a + (1 - normalize_a)*(freq[key]/max_term)
+
     docFreq[dic_key] = freq
 
 # calculate tf-idf
@@ -80,7 +107,7 @@ for record in docFreq.values():
         for dictionary in docFreq.values():
             if token in dictionary:
                 count += 1
-        idf = math.log10((len(docFreq))/count)
+        idf = math.log10((len(docFreq))/(count+1)) + 1
         record[token] *= idf
 
 
